@@ -1,0 +1,13 @@
+The most popular three articles of all time.
+Candidate Is Jerk --338647 Views
+Bears Love Berries --253801 Views
+Bad Things Gone --170098 Views
+
+The most popular article authors of all time.
+Ursula La Multa --507594 Views
+Rudolf von Treppenwitz --423457 Views
+Anonymous Contributor --170098 Views
+Markoff Chaney --84557 Views
+
+These days did more than 1% of requests lead to errors.
+July 17, 2016 --2.26% errors
