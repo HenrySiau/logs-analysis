@@ -8,5 +8,8 @@ This program solve below problems:
 3. On which days did more than 1% of requests lead to errors?
 
 ## Install
-use python 2.7, psycopg2, postgresql 9.58, database name: news, sql file is not included at GitHub.
-run logs-analysis.py will create or append result at results.txt
+Environment: python 2.7, psycopg2, postgresql 9.58.
+
+To create the database,type "sudo su postgres createdb news" at terminal.
+To upload data, type "psql -d news -f newsdata.sql" at terminal. (newsdata.sql file is not included at GitHub.)
+To run the program, type "python logs-analysis.py" at terminal. This will create or append result at a file name results.txt.
